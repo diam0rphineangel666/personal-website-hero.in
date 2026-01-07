@@ -1,0 +1,141 @@
+<html>
+<head>
+  <title>h3roin</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: monospace;
+      }
+
+      body {
+        background: #000000;
+        color: white;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+
+      header {
+        width: 100%;
+        color: rgb(255, 183, 225);
+        font-size: 4rem;
+        font-weight: 600;
+        margin: 3.5rem 0;
+      }
+      ascii {
+        font-size: ;
+        position: ;
+        color: #ffc4e8;
+        margin-top: 0.1rem;
+        margin-bottom: 0.1rem ;
+      }
+
+      infos {
+        font-size: 4rem;
+        position: center;
+        max-width: 600px;
+        color: pink;
+        margin-top: 2rem;
+        margin-bottom: 0.3rem;
+      }
+      infos2 {
+        font-size: 1.3rem;
+        position: center;
+        margin-top: 0.5rem;
+        margin-bottom: rem;
+      }
+      socials {
+        color: rgb(255, 126, 180);
+        font-size: 1.3rem;
+        position: center;
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+      }
+
+      .btn {
+        background: white;
+        color: #8e44ad;
+        border: none;
+        padding: 0.8rem 2rem;
+        font-size: 1rem;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .btn:hover {
+        background: #ff3b9d;
+        color: white;
+      }
+
+      footer {
+        position: center;
+        color: rgb(255, 96, 189);
+        bottom: 20px;
+        font-size: 1.5rem;
+        opacity: 0.8;
+        margin-bottom: 1rem;
+        margin-top: 6rem;
+      }
+      p {
+        font-size: 1.6rem;
+      }
+      a {
+        background-color: #ff3b9d;
+        color: white;
+        padding: 2px 3px;
+        border-radius: 3px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+    </style>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+</head>
+
+<body>
+
+  <header>kitty</header>                                           
+  <ascii> #            (((        ((            #   </ascii>  
+  <ascii>&@@@#     (&@@@@@@& (@@@@@@@&     #@@@&#     </ascii>  
+  <ascii>#&&@@@@@   &@@@@@@@@@@@@@@@@@&(  %@@@@&&&     </ascii>  
+  <ascii>### #(   (&@@@@@@@@@@@@@@@@&    # ###       </ascii>  
+  <ascii>    %&&@@@@@@@@@&&&/                 </ascii>  
+  <ascii> (%%%&&&&&%(                    </ascii>  
+  <ascii> /%/                        </ascii>  
+                                       
+  <ascii>..........(((((...................................</ascii>
+<ascii>..........((,,(((((/...................,/,**/.....</ascii>
+<ascii>..........%%#,/#%%%%%#*,*###(,...(###(#,#,,(#.....</ascii>
+<ascii>..........,((./#((,#,*######((.(((((////..*,......</ascii>
+<ascii>........../((/,#(.,###########(((((/,(//*./,......</ascii>
+<ascii>..........,(/#*############/#####(((((,/,/*.......</ascii>
+<ascii>.........../#####(#,#######*##(*##,((((*(/........</ascii>
+<ascii>........./######(.#.#%,,#,(,.*(.#/.(((((,.........</ascii>
+<ascii>.......,######/,,(,%....*,,..,,...,*((((,/(.......</ascii>
+<ascii>.......*/(((((..((...#.. /(....,,*..////..*... ...</ascii>
+<ascii>.... ../((((/(..#,..(../(..(...#../.*./*../.......</ascii>
+<ascii>........((.(*..,,..#..(,.(#...*/.....*,...........</ascii>
+<ascii>........((.*.....*%..(..(..,(..((*.//(....,*......</ascii>
+<ascii> ......(.(..,.......(..((...##.............*......</ascii>
+<ascii>.......,#,,//*,,(,,,,*%%%*,,#,......*,,..,./......</ascii>
+<ascii>.....*#####/.*,#/,..,###(...#*..../.*.///,........</ascii>
+<ascii>...(#########,####,#.###,..,.#,,,.................</ascii>
+<ascii>..*###########*#####*###/,,,,#,..(................</ascii>
+<ascii>./##################(###*####,((.#................</ascii>
+<ascii>.(##################(########,(*#//...............</ascii>
+
+  <infos> ☣︎</infos>
+  <socials>
+    <p>
+        <a href="https://open.spotify.com/user/5s16azb6xnbzfv5w9bat5zwdy?si=KhCYgcKYRC-ICGB80KFyUg" id="link">
+            my playlists ♡
+        </a>
+    </p>
+  <footer>h3ro.in</footer>
+</body>
+</html>
